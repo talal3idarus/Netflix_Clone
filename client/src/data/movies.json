@@ -1,0 +1,238 @@
+{
+  "featured": {
+    "title": "Stranger Things",
+    "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+    "poster": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=300&h=450&fit=crop&crop=faces",
+    "backdrop": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1920&h=1080&fit=crop",
+    "rating": "TV-14",
+    "year": "2016",
+    "duration": "4 Seasons"
+  },
+  "categories": [
+    {
+      "name": "Trending Now",
+      "movies": [
+        {
+          "id": 1,
+          "title": "The Crown",
+          "overview": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+          "poster": "https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=300&h=450&fit=crop&crop=faces",
+          "rating": "TV-MA",
+          "year": "2016"
+        },
+        {
+          "id": 2,
+          "title": "Ozark",
+          "overview": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder $500 million to appease a Mexican cartel.",
+          "poster": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=450&fit=crop&crop=faces",
+          "rating": "TV-MA",
+          "year": "2017"
+        },
+        {
+          "id": 3,
+          "title": "The Witcher",
+          "overview": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+          "poster": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=300&h=450&fit=crop&crop=faces",
+          "rating": "TV-MA",
+          "year": "2019"
+        },
+        {
+          "id": 4,
+          "title": "Bridgerton",
+          "overview": "Wealth, lust, and betrayal set in the backdrop of Regency era England, seen through the eyes of the powerful Bridgerton family.",
+          "poster": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=300&h=450&fit=crop&crop=faces",
+          "rating": "TV-MA",
+          "year": "2020"
+        },
+        {
+          "id": 5,
+          "title": "Money Heist",
+          "overview": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+          "poster": "https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=300&h=450&fit=crop&crop=faces",
+          "rating": "TV-MA",
+          "year": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Netflix Originals",
+      "movies": [
+        {
+          "id": 6,
+          "title": "Dark",
+          "overview": "A family saga with a supernatural twist, set in a German town, where the disappearance of two young children exposes the relationships among four families.",
+          "poster": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=450&fit=crop&crop=faces",
+          "rating": "TV-MA",
+          "year": "2017"
+        },
+        {
+          "id": 7,
+          "title": "Mindhunter",
+          "overview": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+          "poster": "https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=300&h=450&fit=crop&crop=faces",
+          "rating": "TV-MA",
+          "year": "2017"
+        },
+        {
+          "id": 8,
+          "title": "The Queen's Gambit",
+          "overview": "Orphaned at the tender age of nine, prodigious introvert Beth Harmon discovers and masters the game of chess in 1960s USA.",
+          "poster": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=300&h=450&fit=crop&crop=faces",
+          "rating": "TV-MA",
+          "year": "2020"
+        },
+        {
+          "id": 9,
+          "title": "Russian Doll",
+          "overview": "Nadia keeps dying and reliving her 36th birthday party. She's trapped in a surreal time loop -- and staring down the barrel of her own mortality.",
+          "poster": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=450&fit=crop&crop=faces",
+          "rating": "TV-MA",
+          "year": "2019"
+        },
+        {
+          "id": 10,
+          "title": "Orange Is the New Black",
+          "overview": "Piper Chapman is a public relations executive with a career and a fiance when her past suddenly catches up to her.",
+          "poster": "https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=300&h=450&fit=crop&crop=faces",
+          "rating": "TV-MA",
+          "year": "2013"
+        }
+      ]
+    },
+    {
+      "name": "Top Rated",
+      "movies": [
+        {
+          "id": 11,
+          "title": "Breaking Bad",
+          "overview": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+          "poster": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=300&h=450&fit=crop&crop=faces",
+          "rating": "TV-MA",
+          "year": "2008"
+        },
+        {
+          "id": 12,
+          "title": "The Office",
+          "overview": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",
+          "poster": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=450&fit=crop&crop=faces",
+          "rating": "TV-14",
+          "year": "2005"
+        },
+        {
+          "id": 13,
+          "title": "Friends",
+          "overview": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",
+          "poster": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=300&h=450&fit=crop&crop=faces",
+          "rating": "TV-14",
+          "year": "1994"
+        },
+        {
+          "id": 14,
+          "title": "The Sopranos",
+          "overview": "New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state.",
+          "poster": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&h=450&fit=crop&crop=faces",
+          "rating": "TV-MA",
+          "year": "1999"
+        },
+        {
+          "id": 15,
+          "title": "Game of Thrones",
+          "overview": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+          "poster": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300&h=450&fit=crop&crop=faces",
+          "rating": "TV-MA",
+          "year": "2011"
+        }
+      ]
+    },
+    {
+      "name": "Action & Adventure",
+      "movies": [
+        {
+          "id": 16,
+          "title": "Extraction",
+          "overview": "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.",
+          "poster": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300&h=450&fit=crop&crop=faces",
+          "rating": "R",
+          "year": "2020"
+        },
+        {
+          "id": 17,
+          "title": "6 Underground",
+          "overview": "Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skills, but for a unique desire to delete their pasts to change the future.",
+          "poster": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=450&fit=crop&crop=faces",
+          "rating": "R",
+          "year": "2019"
+        },
+        {
+          "id": 18,
+          "title": "The Old Guard",
+          "overview": "A covert team of immortal mercenaries are suddenly exposed and must now fight to keep their identity a secret just when an unexpected new member is discovered.",
+          "poster": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=300&h=450&fit=crop&crop=faces",
+          "rating": "R",
+          "year": "2020"
+        },
+        {
+          "id": 19,
+          "title": "Project Power",
+          "overview": "On the streets of New Orleans, word begins to spread about a mysterious new pill that unlocks superpowers unique to each user.",
+          "poster": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&h=450&fit=crop&crop=faces",
+          "rating": "R",
+          "year": "2020"
+        },
+        {
+          "id": 20,
+          "title": "Bright",
+          "overview": "In an alternate present day, humans, orcs, elves and fairies have been co-existing since the beginning of time.",
+          "poster": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300&h=450&fit=crop&crop=faces",
+          "rating": "R",
+          "year": "2017"
+        }
+      ]
+    },
+    {
+      "name": "Comedy",
+      "movies": [
+        {
+          "id": 21,
+          "title": "Dead to Me",
+          "overview": "A series about a powerful friendship that blossoms between a tightly wound widow and a free spirit with a shocking secret.",
+          "poster": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&h=450&fit=crop&crop=faces",
+          "rating": "TV-MA",
+          "year": "2019"
+        },
+        {
+          "id": 22,
+          "title": "The Good Place",
+          "overview": "Four people and their otherworldly frienemy struggle in the afterlife to define what it means to be good.",
+          "poster": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&h=450&fit=crop&crop=faces",
+          "rating": "TV-14",
+          "year": "2016"
+        },
+        {
+          "id": 23,
+          "title": "Schitt's Creek",
+          "overview": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight.",
+          "poster": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=300&h=450&fit=crop&crop=faces",
+          "rating": "TV-14",
+          "year": "2015"
+        },
+        {
+          "id": 24,
+          "title": "Brooklyn Nine-Nine",
+          "overview": "Comedy series following the exploits of Det. Jake Peralta and his diverse, lovable colleagues as they police the NYPD's 99th Precinct.",
+          "poster": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=300&h=450&fit=crop&crop=faces",
+          "rating": "TV-14",
+          "year": "2013"
+        },
+        {
+          "id": 25,
+          "title": "The Umbrella Academy",
+          "overview": "On one day in 1989, forty-three infants are inexplicably born to random, unconnected women who showed no signs of pregnancy the day before.",
+          "poster": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=450&fit=crop&crop=faces",
+          "rating": "TV-14",
+          "year": "2019"
+        }
+      ]
+    }
+  ]
+}
